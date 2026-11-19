@@ -37,7 +37,7 @@ Total: **135,151** lines of code across **534** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 129 · **Forks**: 9 · **Open issues**: 69 · **Contributors**: 5
+- **Stars**: 132 · **Forks**: 9 · **Open issues**: 69 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **135,151** lines of code across **534** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 17 | 83 | 1 | 33 | 2 | 325 |
-| last60d | 2026-09-18 | 17 | 128 | 1 | 67 | 2 | 780 |
-| 90d | 2026-08-19 | 17 | 128 | 1 | 67 | 2 | 780 |
-| last180d | 2026-05-21 | 17 | 128 | 1 | 67 | 2 | 780 |
-| 360d | 2025-11-22 | 17 | 128 | 1 | 67 | 2 | 780 |
-| last720d | 2024-11-27 | 17 | 128 | 1 | 67 | 2 | 933 |
+| 30d | 2026-10-20 | 16 | 82 | 1 | 33 | 2 | 325 |
+| last60d | 2026-09-20 | 17 | 128 | 1 | 67 | 2 | 780 |
+| 90d | 2026-08-21 | 17 | 128 | 1 | 67 | 2 | 780 |
+| last180d | 2026-05-23 | 17 | 128 | 1 | 67 | 2 | 780 |
+| 360d | 2025-11-24 | 17 | 128 | 1 | 67 | 2 | 780 |
+| last720d | 2024-11-29 | 17 | 128 | 1 | 67 | 2 | 933 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for rail lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:59:34Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:08:55Z._
