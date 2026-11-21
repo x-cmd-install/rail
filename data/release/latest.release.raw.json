@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12919093,
       "digest": "sha256:766fd315cf685074b9ea2edd232d4fc27b0bce250b7242365c9c3ae10d798874",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-12T01:17:10Z",
       "updated_at": "2026-11-12T01:17:11Z",
       "browser_download_url": "https://github.com/vitosans/rail/releases/download/v0.10.3/rail-v0.10.3-x86_64-unknown-linux-gnu.tar.gz"
