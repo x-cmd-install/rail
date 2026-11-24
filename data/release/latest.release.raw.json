@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12919093,
       "digest": "sha256:766fd315cf685074b9ea2edd232d4fc27b0bce250b7242365c9c3ae10d798874",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-11-12T01:17:10Z",
       "updated_at": "2026-11-12T01:17:11Z",
       "browser_download_url": "https://github.com/vitosans/rail/releases/download/v0.10.3/rail-v0.10.3-x86_64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:4cfea1ee2fd2f2284d9ce3cf6113df004c07dc1dbbf3bcb2d999137e7a0b37be",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-12T01:17:10Z",
       "updated_at": "2026-11-12T01:17:11Z",
       "browser_download_url": "https://github.com/vitosans/rail/releases/download/v0.10.3/SHA256SUMS"
