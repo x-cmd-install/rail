@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10792037,
       "digest": "sha256:922cbe8ae2b0f037affe6d57967997bbb22a9737cd6be04a1805ba02608dc95f",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-12T01:17:10Z",
       "updated_at": "2026-11-12T01:17:11Z",
       "browser_download_url": "https://github.com/vitosans/rail/releases/download/v0.10.3/rail-v0.10.3-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12919093,
       "digest": "sha256:766fd315cf685074b9ea2edd232d4fc27b0bce250b7242365c9c3ae10d798874",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-11-12T01:17:10Z",
       "updated_at": "2026-11-12T01:17:11Z",
       "browser_download_url": "https://github.com/vitosans/rail/releases/download/v0.10.3/rail-v0.10.3-x86_64-unknown-linux-gnu.tar.gz"
