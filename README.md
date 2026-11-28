@@ -41,18 +41,18 @@ Total: **135,151** lines of code across **534** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 128 · **Open PRs**: 1 · **Closed issues**: 67 · **Open issues**: 2 · **Commits**: 933
+- **Releases**: 17 · **Merged PRs**: 128 · **Open PRs**: 2 · **Closed issues**: 67 · **Open issues**: 2 · **Commits**: 933
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 14 | 67 | 1 | 21 | 2 | 93 |
-| last60d | 2026-09-28 | 17 | 128 | 1 | 67 | 2 | 780 |
-| 90d | 2026-08-29 | 17 | 128 | 1 | 67 | 2 | 780 |
-| last180d | 2026-05-31 | 17 | 128 | 1 | 67 | 2 | 780 |
-| 360d | 2025-12-02 | 17 | 128 | 1 | 67 | 2 | 780 |
-| last720d | 2024-12-07 | 17 | 128 | 1 | 67 | 2 | 933 |
+| 30d | 2026-10-29 | 13 | 59 | 2 | 12 | 1 | 93 |
+| last60d | 2026-09-29 | 17 | 128 | 2 | 67 | 2 | 780 |
+| 90d | 2026-08-30 | 17 | 128 | 2 | 67 | 2 | 780 |
+| last180d | 2026-06-01 | 17 | 128 | 2 | 67 | 2 | 780 |
+| 360d | 2025-12-03 | 17 | 128 | 2 | 67 | 2 | 780 |
+| last720d | 2024-12-08 | 17 | 128 | 2 | 67 | 2 | 933 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for rail lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:33:52Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:28:32Z._
